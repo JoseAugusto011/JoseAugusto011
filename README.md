@@ -1,5 +1,8 @@
+## Página Inicial - José Augusto da Silva Barbosa
+
+
 ## Estatísticas do GitHub
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JoseAugusto011&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JoseAugusto011&show_icons=true&theme=radical&title_color=ff0000&icon_color=00ff00)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAugusto011&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
